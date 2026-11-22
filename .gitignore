@@ -1,3 +1,4 @@
+*.env
 *.log
 !important.log
 temp/
